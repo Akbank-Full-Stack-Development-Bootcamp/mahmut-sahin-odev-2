@@ -1,0 +1,5 @@
+Olası middleware'ler:
+
+1- Sisteme yüklenen fotoğrafları belirli bir algoritmaya, sıraya göre isimlendirme.
+2- Content encoding'i istenen bir tipe zorlanabilir. Örnek: "gzip"
+3- Girilen sayfanın son düzenlenme tarihi belirli bir tarihten daha önceyse, "yakın zamanda düzenlenmemiş bir sayfaya giriliyor" diye uyarı verilebilir.
